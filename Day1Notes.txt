@@ -1,4 +1,7 @@
 technicaltraining@sece.ac.in
+
+Day 1 Note: 
+
  # Why C?   (derived languages : C++, C#, Unix's C shell, D, Go, Java, JavaScript)
   - System  Programming Language
   - Direct Hardware Interaction
@@ -34,3 +37,15 @@ signed int: 4 bytes-> 32 bits-> 32 bits-> -1bit-> 2^31
  by default all the datatypes are signed
 
 for char it stores from 0 to 255 (totally: 256)
+
+-------------------------------------------------------------
+#include<stdio.h>
+int main(){
+    if("Hello", "BIllionaire", "Radha") // what does it print??
+    if(2 || printf("Hello") || 0) // what does it print??
+    if(0 || printf("Hello") || 0) // what does it print??
+   while(0 || printf("Hello") || 2) // what does it print??
+}
+-------------------------------------------------------------
+
+
