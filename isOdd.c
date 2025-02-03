@@ -1,3 +1,4 @@
+// printing true or false based on the presence of the odd  number in the array list 
 #include <stdio.h>  
  #include <stdbool.h> 
 int main() {  
