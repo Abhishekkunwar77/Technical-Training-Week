@@ -1,0 +1,27 @@
+ Notes of the Day  2
+ --------------------------------------------------
+ #factorial a given numbers
+ 10!=10 * 9 * 8 * ----- *1
+ 5! = 5 * 4 * 3 * 2 * 1
+----------------------------------------------------
+#finding the largest number among 3 numbers using ternary operators
+(a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c)
+----------------------------------------------------
+#finding the adam's number.
+----------------------------------------------------
+#finding the evil number 
+i.e if  in the binary of that given number present even 1's then it is even else it 
+is not 
+----------------------------------------------------
+#finding the difference between product of the digits and sum of the digits of the given number.
+----------------------------------------------------
+ # Armstrong Numbers
+ if the number is of 3 digits then seperating the digits of the number and adding power 3 to the each number then 
+ sum of that number should be same as the original number.
+ * find the number of the digits
+ * multiply the each digit to itself for the number of digits times
+ * store the sum of all products in  variable
+ * if the result and the original value is equal then it is an armstrong number
+ -------------------------------------------------------
+ #count numbers within same first and last digits within the given limits
+ * Equivalent first and last digits
