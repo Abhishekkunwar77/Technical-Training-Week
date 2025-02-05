@@ -1,0 +1,32 @@
+Note for the day 3:
+ALL THE PATTERN PRINTING SHOULD BE PRACTICED 
+Printing: 
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+-----------------------------------------
+Printing: 
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+-----------------------------------------
+Printing: 
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+
+-----------------------------------------
+
+Construct a diamond using *
+
+  *
+ ***
+*****
+ ***
+  *
