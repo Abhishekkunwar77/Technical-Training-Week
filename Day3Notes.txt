@@ -30,3 +30,4 @@ Construct a diamond using *
 *****
  ***
   *
+  Printing Hollow rectangle Rhombus triangle
