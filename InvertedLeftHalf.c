@@ -16,7 +16,6 @@ int main()
             printf(" ");
         }
 
-        // second inner loop for printing star *
         for (int k = 0; k < rows - i; k++)
         {
             printf("* ");
