@@ -1,0 +1,68 @@
+Note for the Day 4 :
+-------------------
+1. Printing the largest Number in an array
+{21, 99, 100, 101, 102}
+
+-----------------------------------------------
+
+2. Printing the Smallest Number in an array
+{21, 99, 100, 101, 102}
+
+-----------------------------------------------
+
+3. Printing the second largest Number in an array
+{21, 99, 100, 101, 102}
+
+-----------------------------------------------
+
+4. Printing the sum of the array elements
+
+-----------------------------------------------
+
+5.Difference between character and string 
+
+-----------------------------------------------
+
+6. Finding the kth largest element in the array
+
+-----------------------------------------------
+
+7. Sorting the array elements 
+
+-----------------------------------------------
+
+8. Finding the  pair of the number sum target 
+
+-----------------------------------------------
+
+9. Missing Numbers in an array which is given as sorted
+
+-----------------------------------------------
+
+10. Binary search
+
+-----------------------------------------------
+
+11. Finding the median of the given array
+
+-----------------------------------------------
+
+
+12.Target element in the array 
+
+
+-----------------------------------------------
+
+
+13.Frequency of the element in the  given array
+
+-----------------------------------------------
+
+
+14. rotating the array by k steps
+
+-----------------------------------------------
+
+
+15.Solving leetcode Problems
+
