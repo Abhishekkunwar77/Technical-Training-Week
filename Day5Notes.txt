@@ -1,0 +1,42 @@
+Note for the Day 5 :
+-------------------
+1. Reversing the given String i.e "HELLO"
+
+-----------------------------------------------
+
+2. Number of vowels in a given string 
+
+-----------------------------------------------
+
+3. String palindrome 
+
+
+-----------------------------------------------
+
+4. upper case and lowe case
+
+-----------------------------------------------
+
+5. Frequency of the character in the string
+
+-----------------------------------------------
+
+6. anagram problems 
+
+-----------------------------------------------
+
+7. Counting the words
+
+-----------------------------------------------
+
+8.  pangrams
+
+-----------------------------------------------
+
+Homework Questions:
+
+1.  Find if the given string   is pangram or not 
+2.  remove the spaces froon the given string.
+3.  find the  first non-repeating character in the given string 
+4.  Concatinate two string without using concatinate method (strcat())
+5.  Solve the leetcode problem 20
