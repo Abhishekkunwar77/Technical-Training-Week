@@ -14,14 +14,12 @@ public class detailEmployee{
         System.out.println("Employee ID: " + employeeId);
         System.out.println("Salary: " + salary);
     }
-}
-
-public class detailEmployee {
     public static void main(String[] args) {
         Manager manager = new Manager("Alice", 101, 75000, "HR");
         manager.displayDetails();
     }
 }
+
 class Manager extends detailEmployee {
     public String department;
 
